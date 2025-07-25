@@ -1,4 +1,4 @@
-# E-commerce-Modeling
+# E-commerce Platform
 
 ### 1) `지역 상생 이커머스 플랫폼(로컬라이브) 구축 및 운영`
 - 소속: 한화H&R 전략사업TFT / Product Owner
